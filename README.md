@@ -2,7 +2,7 @@
 El trabajo que vamos a realizar es modelar el juego del ajedrez. 
 El tablero que vamos a usar es el siguiente:
 
- ![image](https://github.com/lydiaarias/Ajedrez/assets/144675375/1c7848fc-e772-49ee-bb8f-daa3c86f68cd)
+
 
 Como se puede observar vamos a usar piezas blancas y negras.
 Movimientos de las piezas.
