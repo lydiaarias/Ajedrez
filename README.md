@@ -2,7 +2,7 @@
 El trabajo que vamos a realizar es modelar el juego del ajedrez. 
 El tablero que vamos a usar es el siguiente:
 
- ![image](https://github.com/lydiaarias/Ajedrez/assets/144675375/0ebc63ad-4135-4b3c-a906-d25ef443f295)
+![image](https://github.com/lydiaarias/Ajedrez/assets/144675375/ccd40c36-86c6-4c07-9eb6-da6d1f47dcc6)
 
 Como se puede observar vamos a usar piezas blancas y negras.
 Movimientos de las piezas.
@@ -16,8 +16,7 @@ Peón: Se mueve hacia adelante una casilla en la columna en la que se encuentra,
 
 La estructura que vamos a seguir es la que se encuentra representada en el siguiente diagrama de clases:
 
-![image](https://github.com/lydiaarias/Ajedrez/assets/144675375/84171e29-bbdd-4245-8e7b-dc0627b3542d)
-
+![image](https://github.com/lydiaarias/Ajedrez/assets/144675375/cf10535a-bb07-4b0b-85e8-524fb5c553f3)
 
 Los primeros que seguiremos es la creación de clases. El tipo de lo que será cada atributo esta definido junto a ellos. 
 Clase Tablero.
